@@ -3,7 +3,7 @@
 ## Install
 If using poetry simply:
 ```
-poetry Install
+poetry install
 ```
 
 If using native pip something like this should work:
