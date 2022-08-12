@@ -6,11 +6,6 @@ If using poetry simply:
 poetry install
 ```
 
-If using native pip something like this should work:
-```
-python -m pip install .
-```
-
 ## Usage
 
 ```bash
