@@ -8,7 +8,7 @@ import click
 @click.argument("file", type=click.Path(exists=True))
 @click.option("-u", "--username", type=str, prompt=True)
 @click.option("-p", "--password", type=str, prompt=True, hide_input=True)
-def run(host: str, file: str, username: str, password: str, diff: bool):
+def run(host: str, file: str, username: str, password: str):
     """Sends a config FILE to a pan-os HOST with netmiko
 
     \b
