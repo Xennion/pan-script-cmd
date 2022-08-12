@@ -1,0 +1,1 @@
+set template CORPPAN01 config network interface aggregate-ethernet ae1 layer3 units ae1.666 tag 666 ip 66.66.66.66/32
