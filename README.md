@@ -29,7 +29,7 @@ Options:
   -p, --password TEXT
 
 # run the cmd with the example input file
-python pan.py sjpanorama01.tivo.com commands-example.txt
+python pan.py mypanfirewall.company.com commands-example.txt
 Username: mygooduser
 Password: mygooderpass
 ```
