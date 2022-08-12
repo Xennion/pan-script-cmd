@@ -1,5 +1,16 @@
 # PAN click command to run a script on a pan/panorama device
 
+## Install
+If using poetry simply:
+```
+poetry Install
+```
+
+If using native pip something like this should work:
+```
+python -m pip install .
+```
+
 ## Usage
 
 ```bash
